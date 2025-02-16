@@ -1,38 +1,41 @@
-# Hi there 👋
+# Hi there 👋  
 
-I'm Nick, and i am glad to see you at my GitHub profile!
+I'm Nick, and I am glad to see you at my GitHub profile!  
 
-Here you can find some interesting projects on Python, Java, and JS.
+Here you can find some interesting projects on Python, Java, and JavaScript.  
 
-So, don't waste time and check it out!
+So, don't waste time and check it out!  
 
-## Photo??
+## ?Photo?
 
-![Ye, that's me](images/Photo.jpeg)
+![Yeah, that's me](images/Photo.jpeg)  
 
-## About me
+## About Me  
 
-I'm the student at USM (The State University of Moldova), faculty "Mathematics and Informatics", specialization "Applied Informatics".
+I'm a student at USM (The State University of Moldova), Faculty of "Mathematics and Informatics", specializing in "Applied Informatics".  
 
-What about my work expirience? For regret have it not so much...
-My previous position was "Project Manager" into a IT company.
-It was my first work expirience in IT, so, i consider that it was actualy well.
+What about my work experience? Unfortunately, I don't have much...  
+My previous position was **Project Manager** in an IT company.  
+It was my first experience in IT, so I consider it to have been quite valuable.  
 
-## Hobbies & Interests
+## Hobbies & Interests  
 
-My general interest are sport, literature, and... programming, yes. I think, that it's nice when your professional domain matches with your hobby, and you like what you do.
+My general interests are **sports, literature, and... programming**.  
+I think it's great when your profession matches your hobbies, and you enjoy what you do.  
 
-## Programing Languages
+## Programming Languages  
 
-1. The main two languages I practice are Python and Java. I already have some projects, created with them, that you can also find at my GitHub.
-In addition to the languages mentiones above, I have epirience working with JavaScript, C++, and  SQL.
+1. The two main languages I practice are **Python** and **Java**.  
+   I already have some projects created with them, which you can find on my GitHub.  
+   In addition, I have experience working with **JavaScript, C++, and SQL**.  
 
-2. Now I'm learning PHP, and diving into deep development with Java, specialy with Spring Framework.
-I'm currently working at the development of secure application using Spring Security, and a part of this project you already can observe on coresponding repository. Or, might be at the moment you are reading this, it is already finished.
+2. Right now, I'm learning **PHP** and diving deeper into Java development, especially with the **Spring Framework**.  
+   I'm currently working on the development of a secure application using **Spring Security**, and you can already see part of this project in the corresponding repository.  
+   Or, if you're reading this later, it might already be finished.  
 
-3. In the near future I plan to learn more about Data Analysis with Pandas (Python Framework), lear Kotlin and GO.
+3. In the near future, I plan to learn more about **Data Analysis with Pandas (Python Framework)**, as well as **Kotlin and Go**.  
 
-## Contacts
+## Contacts  
 
-You can contact me by mail: `nicolae.acsr@gmail.com`.
-Will be glad to any networking and participation in interesting projects, so don't be shame to contact, if you need.
+You can contact me via email: `nicolae.acsr@gmail.com`.  
+I would be happy to network and participate in interesting projects, so don't hesitate to reach out!  
